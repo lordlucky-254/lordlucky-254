@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=LORD%20LUCKY&fontSize=90&fontColor=ffd700&animation=twinkling&fontAlignY=3" alt="Lord Lucky header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=LORD%20LUCKY&fontSize=56&fontColor=ffd700&animation=twinkling&fontAlignY=3" alt="Lord Lucky header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Lord%20Lucky;Full-Stack%20Sorcerer;Chaotic%20Genius" alt="typing" />
