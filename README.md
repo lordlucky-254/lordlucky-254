@@ -1,52 +1,148 @@
-<p align="center">
-  <a href="https://github.com/lordlucky-254">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello%20%20%40CODE%20IS%20LAW" alt="Hello  @CODE IS LAW" />
-  </a>
-</p>
+<!--
+PROFILE SETUP
+1. Create a public GitHub repository with exactly the same name as your GitHub username.
+2. Add this file as README.md in that repository.
+3. This template assumes your GitHub username is lordlucky. If it differs, update the links.
+4. Customize the interests, toolbox, and focus below so they accurately reflect you.
+5. Replace the commented project rows with your real work when ready.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Oxroot" alt="Typing headlines" />
-</p>
+Design note: GitHub controls the page background. Use GitHub's dark theme for the
+full terminal aesthetic. The core layout works without external images or widgets.
+-->
 
-### 🚀 About Me
+<div align="center">
 
-⚡ &nbsp;Fun fact: **Lords firstborn**
+# `root@lordlucky:~#`
 
-### 🛠️ Tech Stack
+**UNDERSTAND THE SYSTEM. QUESTION THE DEFAULTS. BUILD SOMETHING BETTER.**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+[![Profile](https://img.shields.io/badge/IDENTITY-lordlucky-00FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/lordlucky)
+[![Repositories](https://img.shields.io/badge/ACCESS-PUBLIC_REPOS-00FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/lordlucky?tab=repositories)
 
-### 📊 GitHub Stats
+[Transmission](#transmission) · [Toolbox](#toolbox) · [Operations](#operations) · [Field notes](#field-notes) · [Connect](#connect)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=lordlucky-254&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+</div>
 
-### 📈 Contribution Graph
+```text
+██╗      ██████╗ ██████╗ ██████╗ ██╗     ██╗   ██╗ ██████╗██╗  ██╗██╗   ██╗
+██║     ██╔═══██╗██╔══██╗██╔══██╗██║     ██║   ██║██╔════╝██║ ██╔╝╚██╗ ██╔╝
+██║     ██║   ██║██████╔╝██║  ██║██║     ██║   ██║██║     █████╔╝  ╚████╔╝
+██║     ██║   ██║██╔══██╗██║  ██║██║     ██║   ██║██║     ██╔═██╗   ╚██╔╝
+███████╗╚██████╔╝██║  ██║██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗   ██�[...]
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╗╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=lordlucky-254&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+                 [ curiosity is a feature, not a vulnerability ]
+```
 
-### 💭 Dev Quote
+## Transmission
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+```console
+visitor@github:~$ whoami
+lordlucky
+
+visitor@github:~$ cat manifesto.txt
+Read the source.
+Understand the failure.
+Build the fix.
+Leave the system better than you found it.
+```
+
+I like the point where **code, systems, and security** meet. This is my corner of the internet for experiments, tools, and notes from figuring things out the hard way.
+
+**Less noise. More working code.**
+
+> Security work belongs in owned environments, CTFs, and explicitly authorized scopes. Curiosity is not permission.
+
+## Toolbox
+
+<!-- Suggested focus areas, not certifications or claims of expertise. Edit freely. -->
+
+```text
+~/toolbox
+├── languages/       Python · Bash · JavaScript
+├── environment/     Linux · Git · Docker
+├── security/        Web security · Network fundamentals · CTFs
+└── mindset/         Read · Reproduce · Understand · Improve
+```
+
+| Area | What interests me |
+| :--- | :--- |
+| **Automation** | Turning repetitive tasks into small, dependable tools. |
+| **Systems** | Understanding what happens beneath the abstraction. |
+| **Security** | Finding failure modes in authorized labs and learning how to prevent them. |
+| **Open source** | Code you can inspect, question, and improve. |
+
+## Operations
+
+```console
+visitor@github:~$ ls -la ~/operations
+```
+
+**The code is the evidence.** Browse my [public repositories](https://github.com/lordlucky?tab=repositories) for what I’m building.
+
+<!--
+UNCOMMENT AND CUSTOMIZE WHEN YOU HAVE PROJECTS TO FEATURE.
+Use real repository links and concrete descriptions. If you cite an outcome,
+make it something a visitor can verify in the repository.
+
+| Project | Purpose | Evidence |
+| :--- | :--- | :--- |
+| [PROJECT_NAME](https://github.com/lordlucky/REPO_NAME) | Explain the problem it solves in one sentence. | Demo, tests, or a reproducible example. |
+| [PROJECT_NAME](https://github.com/lordlucky/REPO_NAME) | Explain the problem it solves in one sentence. | Demo, tests, or a reproducible example. |
+| [PROJECT_NAME](https://github.com/lordlucky/REPO_NAME) | Explain the problem it solves in one sentence. | Demo, tests, or a reproducible example. |
+-->
+
+## Field notes
+
+<details>
+<summary><strong><code>cat ~/notes/operating-principles.md</code></strong></summary>
+
+<br>
+
+- **Understand before automating.** A script should encode understanding, not hide its absence.
+- **Make it reproducible.** Good notes turn one lucky result into something useful.
+- **Treat scope as a boundary.** Get explicit permission before testing someone else’s systems.
+- **Keep secrets out of source control.** Credentials do not belong in commits, screenshots, or logs.
+- **Document the fix, too.** Breaking a lab is a lesson; explaining the defense makes it worth sharing.
+- **Stay teachable.** There is always another layer to understand.
+
+</details>
+
+<details>
+<summary><strong><code>cat ~/notes/next-up.txt</code></strong></summary>
+
+<br>
+
+<!-- Replace these suggested goals with your actual priorities. -->
+
+- [ ] Ship a small tool with a clear README and working examples.
+- [ ] Publish a reproducible write-up from an authorized lab or CTF.
+- [ ] Add tests to something that currently relies on “it works on my machine.”
+- [ ] Make a useful contribution to an open-source project.
+
+</details>
+
+## Connect
+
+```text
+┌─ connection policy ────────────────────────────────────┐
+│ Bring a clear question, a useful idea, or a good bug.   │
+│ Respect scope. Share knowledge. Build in public.       │
+└────────────────────────────────────────────────────────┘
+```
+
+**Find me:** [@lordlucky](https://github.com/lordlucky)  
+**Project discussion:** use the relevant repository’s issues, if enabled.  
+**Sensitive reports:** follow that project’s security policy; never post secrets or live exploit details in a public issue.
+
+<!-- Optional: add an email address, personal website, or other contact link you are comfortable making public. -->
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/lordlucky-254">lordlucky-254</a></i></p>
+
+<div align="center">
+
+**`[ session persists. curiosity continues. ]`**
+
+<sub>No borrowed credentials. No invented achievements. Let the work speak.</sub>
+
+</div>
