@@ -1,52 +1,97 @@
-<p align="center">
-  <a href="https://github.com/lordlucky-254">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello%20%20%40CODE%20IS%20LAW" alt="Hello  @CODE IS LAW" />
-  </a>
-</p>
+<div align="center">
+
+# `root@lordlucky-254:~#`
+
+**security • systems • automation • open source**
+
+[![Profile](https://img.shields.io/badge/PROFILE-lordlucky--254-00FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/lordlucky-254)
+[![Repositories](https://img.shields.io/badge/REPOS-6_PUBLIC-00FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/lordlucky-254?tab=repositories)
+[![Focus](https://img.shields.io/badge/FOCUS-cybersecurity%20%2B%20systems-00FF88?style=for-the-badge&labelColor=0D1117)](https://github.com/lordlucky-254?tab=repositories)
+
+[About](#about) · [Toolbox](#toolbox) · [Pinned](#pinned-projects) · [Stats](#stats) · [Connect](#connect)
+
+</div>
+
+```text
+   ___   __  __   __   ___  ___  ___  ___  ___  ___  _   _
+  / __| |  \/  | |  \/  | | _ )| __|| __|/ _ \/ __|| | | |
+ | (__  | |\/| | | |\/| | | _ \\ _ \| _| | (_) \__ \| |_| |
+  \___| |_|  |_| |_|  |_| |___/|___/|___| \___/|___/ \___/
+
+                   [ curiosity is a feature, not a bug ]
+```
+
+## About
+
+I build tools, documentation, and experiments around the places where code, systems, and security intersect.
+
+I like solving problems by reading the source, understanding the failure mode, and turning that understanding into a practical improvement.
+
+- Interested in: cybersecurity, system design, automation, Linux workflows
+- Current focus: ethical hacking roadmaps, developer tooling, and useful project docs
+- Operating principle: write clear, reproducible systems instead of magic tricks
+
+> Security work belongs in owned environments, CTFs, and explicit scopes. Curiosity is not permission.
+
+## Toolbox
+
+```text
+~/toolbox
+├── languages/       Python • Bash • JavaScript • Shell • SQL
+├── systems/         Linux • Git • Docker • Neovim • VS Code
+├── security/        Web security • Recon • CTFs • Ethical hacking basics
+├── automation/      Scripts • Dev setup • Repeatable workflows
+└── mindset/         Read • Reproduce • Understand • Improve
+```
+
+| Area | Focus |
+| :--- | :--- |
+| **Security** | Ethical hacking foundations, attack surface thinking, secure defaults |
+| **Systems** | Linux workflows, developer environments, configuration as code |
+| **Automation** | Replacing manual repetition with reliable tools |
+| **Learning** | Roadmaps, notes, and reproducible guides that explain the why |
+
+## Pinned Projects
+
+These are the repos I’m actively building or documenting right now:
+
+- [AI-Ml-roadmap-](https://github.com/lordlucky-254/AI-Ml-roadmap-) — AI and machine learning roadmap for learning and practice.
+- [dev-tools-setup](https://github.com/lordlucky-254/dev-tools-setup) — One-click setup for a clean developer environment on Linux/macOS/Windows.
+- [Ethical-hacking-roadmap](https://github.com/lordlucky-254/Ethical-hacking-roadmap) — Structured roadmap for cybersecurity and ethical hacking fundamentals.
+- [MATHS-GUIDE-FOR-COMPUTERSCIENCE-](https://github.com/lordlucky-254/MATHS-GUIDE-FOR-COMPUTERSCIENCE-) — Useful mathematical foundations for computer science learners.
+- [nvim-install-guide](https://github.com/lordlucky-254/nvim-install-guide) — Setup guide for installing and configuring Neovim.
+- [lordlucky-254](https://github.com/lordlucky-254/lordlucky-254) — Profile repository and public workspace for experiments and project notes.
+
+## Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Oxroot" alt="Typing headlines" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&theme=tokyonight&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&theme=tokyonight&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top languages" />
 </p>
-
-### 🚀 About Me
-
-⚡ &nbsp;Fun fact: **Lords firstborn**
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=lordlucky-254&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky-254&bg_color=0D1117&color=00FF88&line=00FF88&point=E6EDF3&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
-### 📈 Contribution Graph
+## Connect
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=lordlucky-254&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" />
-</p>
+```text
+┌─ connection policy ──────────────────────────────────────┐
+│ Bring a clear question, a useful idea, or a real bug.     │
+│ Respect scope. Share knowledge. Build in public.         │
+└────────────────────────────────────────────────────────────┘
+```
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+- GitHub: [@lordlucky-254](https://github.com/lordlucky-254)
+- Project discussion: open an issue in the relevant repo
+- Sensitive reports: follow the repository’s security policy; never post secrets or live exploit details publicly
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/lordlucky-254">lordlucky-254</a></i></p>
+
+<div align="center">
+
+**`[ root privileges not assumed. curiosity enabled. ]`**
+
+<sub>Read the source. Understand the failure. Build the fix.</sub>
+
+</div>
