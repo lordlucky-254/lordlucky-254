@@ -1,83 +1,146 @@
+<!-- ⚠️ Find & replace YOUR_USERNAME with your real GitHub username.
+     Rename this file to README.md in a repo named exactly like your username. -->
+
 <div align="center">
 
-<!-- Hero / Profile -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=LORD%20LUCKY&fontSize=90&fontColor=ffd700&animation=twinkling&fontAlignY=3" />
 
-<p align="center">
-  <a href="https://github.com/lordlucky-254">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0D1117,0f1720&height=120&section=header&text=lordlucky-254&fontColor=00FF88" alt="hero" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Welcome+to+the+Kingdom;I+am+Lord+Lucky;Full-Stack+Sorcerer" />
+</a>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/329438166?v=4" width="160" height="160" alt="avatar" style="border-radius:50%; border:4px solid #00FF88; box-shadow: 0 10px 30px rgba(0,0,0,0.6);" />
-</p>
+<br/>
 
-<h1 align="center" style="color:#00FF88">root@lordlucky-254:~#</h1>
-<p align="center" style="color:#c9f5e0; font-size:16px">security • systems • automation • open source</p>
+![Profile Views](https://komarev.com/ghpvc/?username=lordlucky-254&label=SUBJECTS%20VISITED&color=ffd700&style=for-the-badge&labelColor=1a1a2e)
+![Followers](https://img.shields.io/github/followers/lordlucky-254?label=LOYAL%20FOLLOWERS&style=for-the-badge&color=ffd700&labelColor=1a1a2e&logo=github)
+![Stars](https://img.shields.io/github/stars/lordlucky-254?label=TREASURE%20%E2%AD%90&style=for-the-badge&color=ffd700&labelColor=1a1a2e)
 
-<p align="center">
-  <a href="https://github.com/lordlucky-254?tab=repositories"><img alt="repos" src="https://img.shields.io/badge/REPOS-6_PUBLIC-00FF88?style=for-the-badge&labelColor=0D1117"/></a>
-  <a href="https://github.com/lordlucky-254"><img alt="follow" src="https://img.shields.io/badge/FOLLOW-@lordlucky--254-00d1ff?style=for-the-badge&labelColor=0D1117"/></a>
-  <img alt="theme" src="https://img.shields.io/badge/THEME-dark%20%F0%9F%92%BB-ff6b6b?style=for-the-badge&labelColor=0D1117"/>
-</p>
+</div>
 
 ---
 
-## About
+## 👑 THE ROYAL DECREE
 
-I build tools, documentation, and experiments where code, systems, and security meet. I prefer short, reproducible work that teaches and scales.
+```js
+const lordLucky = {
+  title: "Lord",
+  name: "Lucky",
+  class: "Full-Stack Sorcerer",
+  alignment: "Chaotic Genius",
+  luck: Infinity,
+  weapons: ["JavaScript", "Python", "Caffeine", "Pure Audacity"],
+  currentQuest: "Building something legendary",
+  weakness: null,
+  motto: "Why be lucky when you can be Lord Lucky?",
 
-- Focus: ethical hacking roadmaps, developer tooling, Linux workflows
-- Current: documenting learning paths and making useful setup scripts
-- Motto: Read the source. Understand the failure. Build the fix.
+  deploy() {
+    return this.luck > 0 ? "🚀 Shipped to production. No bugs. Obviously." : "impossible";
+  },
+};
 
-> Security work belongs in owned environments, CTFs, and explicit scopes. Curiosity is not permission.
+console.log(lordLucky.deploy());
+```
 
-## Toolbox
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0D1117" alt="Bash" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" alt="JS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0D1117" alt="Neovim" />
-</p>
+| 🏰 **Domain** | ⚔️ **Status** | 🔮 **Power Level** |
+|:---:|:---:|:---:|
+| Web Development | Conquering | **OVER 9000** |
+| Open Source | Pillaging (respectfully) | **MAXIMUM** |
+| Bug Slaying | Undefeated | **LEGENDARY** |
 
-## Pinned Projects
-
-<!-- Picked from your public repos -->
-
-- [AI-Ml-roadmap-](https://github.com/lordlucky-254/AI-Ml-roadmap-) — roadmap and practical steps for learning AI/ML.
-- [Ethical-hacking-roadmap](https://github.com/lordlucky-254/Ethical-hacking-roadmap) — structured learning path for cybersecurity fundamentals.
-- [dev-tools-setup](https://github.com/lordlucky-254/dev-tools-setup) — cross-platform dev environment setup scripts.
-- [MATHS-GUIDE-FOR-COMPUTERSCIENCE-](https://github.com/lordlucky-254/MATHS-GUIDE-FOR-COMPUTERSCIENCE-) — math foundations for CS learners.
-
-
-## Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&theme=radical&title_color=00FF88&icon_color=00FF88&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&theme=radical&title_color=00FF88&icon_color=00FF88&hide_border=true&bg_color=0D1117" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky-254&bg_color=0D1117&color=00FF88&line=00FF88&point=E6EDF3&area=true&hide_border=true" alt="activity"/>
-</p>
+</div>
 
 ---
 
-## Connect
-
-<p align="center" style="color:#c9f5e0">
-  Bring a clear question, a useful idea, or a reproducible bug. Respect scope — don’t ask for live exploit details here.
-</p>
-
-<p align="center">
-  <a href="https://github.com/lordlucky-254"><img src="https://img.shields.io/badge/GitHub-@lordlucky--254-00d1ff?style=for-the-badge&labelColor=0D1117" alt="GitHub" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-available-00a3ff?style=for-the-badge&labelColor=0D1117" alt="Email" /></a>
-</p>
+## ⚔️ ARSENAL
 
 <div align="center">
-  <sub style="color:#9bd9b4">root privileges not assumed. curiosity enabled.</sub>
+
+**Languages & Spells**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash,c,cpp&theme=dark" /><br/>
+
+**Frameworks & Siege Engines**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,vite&theme=dark" /><br/>
+
+**Databases & Vaults**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase&theme=dark" /><br/>
+
+**Tools & Dark Magic**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel&theme=dark" />
+
+</div>
+
+---
+
+## 📊 BATTLE STATISTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=ffd700&icon_color=ffd700&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=ffd700&text_color=ffffff" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=lordlucky-254&theme=tokyonight&hide_border=true&background=0f0c29&ring=ffd700&fire=ff6b00&currStreakLabel=ffd700" />
+
+</div>
+
+---
+
+## 🏆 TROPHY ROOM
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lordlucky-254&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## 🐍 THE CONTRIBUTION SERPENT
+
+<div align="center">
+
+<!-- Needs the snake GitHub Action (Platane/snk) running in this repo -->
+<img src="https://raw.githubusercontent.com/lordlucky-254/lordlucky-254/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🔥 CURRENT QUESTS
+
+- 🔭 **Currently conquering:** something absurdly ambitious
+- 🌱 **Leveling up in:** whatever scares me most
+- 🤝 **Seeking allies for:** open-source adventures & wild ideas
+- ⚡ **Ask me about:** code, strategy, or how to get lucky (it's skill, actually)
+- 🎲 **Fun fact:** I once fixed a bug by *looking* at it intensely
+
+---
+
+## 🌐 SUMMON ME
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-LordLucky-ffd700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/lordlucky-254)
+[![Twitter](https://img.shields.io/badge/Twitter-@LordLucky-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lord%20Lucky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Raven-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Enter%20the%20Castle-ffd700?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a2e)](https://YOUR_WEBSITE.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"I don't believe in luck. I believe in Lord Lucky."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting%20the%20kingdom%20%F0%9F%91%91&fontSize=24&fontColor=ffd700" />
+
 </div>
