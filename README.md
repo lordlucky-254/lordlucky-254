@@ -1,146 +1,219 @@
-<!-- ⚠️ Find & replace YOUR_USERNAME with your real GitHub username.
-     Rename this file to README.md in a repo named exactly like your username. -->
+<!-- ░▒▓█ LORDLUCKY :: PROFILE.EXE █▓▒░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=LORD%20LUCKY&fontSize=90&fontColor=ffd700&animation=twinkling&fontAlignY=3" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=240&section=header&text=L0RD%20LUCKY&fontSize=80&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=%5B%20ghost%20in%20the%20machine%20%5D&descAlignY=60&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Welcome+to+the+Kingdom;I+am+Lord+Lucky;Full-Stack+Sorcerer" />
+<a href="https://github.com/lordlucky">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%3E+initializing+lordlucky...;%3E+bypassing+firewall...+%5B+OK+%5D;%3E+access+granted.+welcome%2C+stranger.;%3E+they+call+me+the+lord+of+luck.;%3E+i+don't+hack+the+system.+i+become+it." alt="typing intro"/>
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lordlucky-254&label=SUBJECTS%20VISITED&color=ffd700&style=for-the-badge&labelColor=1a1a2e)
-![Followers](https://img.shields.io/github/followers/lordlucky-254?label=LOYAL%20FOLLOWERS&style=for-the-badge&color=ffd700&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/lordlucky-254?label=TREASURE%20%E2%AD%90&style=for-the-badge&color=ffd700&labelColor=1a1a2e)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000&logo=gnometerminal&logoColor=00ff41)
+![Identity](https://img.shields.io/badge/IDENTITY-ENCRYPTED-ff0040?style=for-the-badge&labelColor=000000)
+![Threat](https://img.shields.io/badge/THREAT%20LEVEL-CLASSIFIED-9d00ff?style=for-the-badge&labelColor=000000)
+![Visitors](https://komarev.com/ghpvc/?username=lordlucky&label=SOULS+SCANNED&color=00ff41&style=for-the-badge&labelColor=000000)
 
 </div>
 
 ---
 
-## 👑 THE ROYAL DECREE
-
-```js
-const lordLucky = {
-  title: "Lord",
-  name: "Lucky",
-  class: "Full-Stack Sorcerer",
-  alignment: "Chaotic Genius",
-  luck: Infinity,
-  weapons: ["JavaScript", "Python", "Caffeine", "Pure Audacity"],
-  currentQuest: "Building something legendary",
-  weakness: null,
-  motto: "Why be lucky when you can be Lord Lucky?",
-
-  deploy() {
-    return this.luck > 0 ? "🚀 Shipped to production. No bugs. Obviously." : "impossible";
-  },
-};
-
-console.log(lordLucky.deploy());
+```ruby
+┌──(lordlucky㉿darknet)-[~/identity]
+└─$ cat /etc/whoami.conf
 ```
 
+```yaml
+# ══════════════════════════════════════════════
+#  ░█░░░█▀█░█▀▄░█▀▄░░░█░░░█░█░█▀▀░█░█░█░█
+#  ░█░░░█░█░█▀▄░█░█░░░█░░░█░█░█░░░█▀▄░░█░
+#  ░▀▀▀░▀▀▀░▀░▀░▀▀░░░░▀▀▀░▀▀▀░▀▀▀░▀░▀░░▀░
+# ══════════════════════════════════════════════
+operator:
+  handle:      lordlucky
+  alias:       [ "The Lord of Luck", "Null Pointer", "Ghost" ]
+  origin:      "somewhere between the packets"
+  status:      "awake while you sleep"
+  mission:     "break things. understand them. build them better."
+  philosophy:  "luck is just an exploit you haven't found yet"
+  motto:       "// there is no patch for curiosity"
+```
+
+---
+
+## ⚡ `> ./arsenal --list`
+
 <div align="center">
 
-| 🏰 **Domain** | ⚔️ **Status** | 🔮 **Power Level** |
-|:---:|:---:|:---:|
-| Web Development | Conquering | **OVER 9000** |
-| Open Source | Pillaging (respectfully) | **MAXIMUM** |
-| Bug Slaying | Undefeated | **LEGENDARY** |
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff41)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41)
+![Burp](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff41)
 
 </div>
 
 ---
 
-## ⚔️ ARSENAL
+## 🧬 `> cat /proc/lordlucky/skills`
+
+```diff
++ [████████████████████░] 95%  Curiosity
++ [██████████████████░░░] 88%  Reverse Engineering
++ [█████████████████░░░░] 82%  Network Recon
++ [████████████████░░░░░] 78%  Web App Security
++ [███████████████░░░░░░] 75%  Scripting & Automation
++ [██████████████░░░░░░░] 70%  Cryptography
+- [█████████████████████] 100% Caffeine Dependency
+- [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒]  ??%  [REDACTED]
+```
+
+---
+
+## 📡 `> ./currently --status`
+
+```bash
+[*] Researching      →  vulnerabilities, so I can learn to defend against them
+[*] Building         →  tools nobody asked for, but everyone will need
+[*] Learning         →  one more language, one more layer deeper
+[*] Hunting          →  CTF flags, bug bounties & logic flaws
+[*] Collaborating    →  with minds that think in the dark
+[!] Ask me about     →  automation, security, Linux, anything with a terminal
+```
+
+---
+
+## 📊 `> ./stats --scan`
 
 <div align="center">
 
-**Languages & Spells**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lordlucky&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=b6ffb6&ring_color=00ff41&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=b6ffb6&langs_count=8" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash,c,cpp&theme=dark" /><br/>
-
-**Frameworks & Siege Engines**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,vite&theme=dark" /><br/>
-
-**Databases & Vaults**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase&theme=dark" /><br/>
-
-**Tools & Dark Magic**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=lordlucky&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=b6ffb6&dates=6b8f6b" />
 
 </div>
 
 ---
 
-## 📊 BATTLE STATISTICS
+## 🏆 `> ls ~/trophies`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=ffd700&icon_color=ffd700&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=ffd700&text_color=ffffff" />
+<img src="https://github-profile-trophy.vercel.app/?username=lordlucky&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 `> tail -f /var/log/activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=LORDLUCKY%20::%20CONTRIBUTION%20TRAFFIC" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 `> ./snake --eat-contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lordlucky/lordlucky/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 🔐 `> gpg --decrypt secret.msg`
+
+```text
+-----BEGIN PGP MESSAGE-----
+
+hQEMA7xK9...  [ 4096-bit encrypted ]
+...they say luck favors the bold.
+...i say luck favors the prepared.
+...and the prepared favor root.
+
+-----END PGP MESSAGE-----
+```
+
+> *"The quieter you become, the more you can hear."*
+> ## `// listening...`
+
+---
+
+## 📬 `> ./contact --secure-channel`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-lordlucky-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/lordlucky)
+[![Email](https://img.shields.io/badge/Email-Send_Signal-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=00ff41)](https://x.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/yourhandle)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=lordlucky-254&theme=tokyonight&hide_border=true&background=0f0c29&ring=ffd700&fire=ff6b00&currStreakLabel=ffd700" />
+```
+╔═══════════════════════════════════════════════╗
+║  "Fortune favors the one who reads the code." ║
+║                                  — lordlucky  ║
+╚═══════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
+
+`[ connection terminated :: stay anonymous, stay dangerous ]`
 
 </div>
 
 ---
 
-## 🏆 TROPHY ROOM
+<details>
+<summary><code>> sudo cat .github/workflows/snake.yml</code> &nbsp;🐍 <i>[ classified source — click to decrypt ]</i></summary>
 
-<div align="center">
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lordlucky-254&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+```yaml
+name: Generate Snake Animation
 
-</div>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
----
+permissions:
+  contents: write
 
-## 🐍 THE CONTRIBUTION SERPENT
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-<div align="center">
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-<!-- Needs the snake GitHub Action (Platane/snk) running in this repo -->
-<img src="https://raw.githubusercontent.com/lordlucky-254/lordlucky-254/output/github-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🔥 CURRENT QUESTS
-
-- 🔭 **Currently conquering:** something absurdly ambitious
-- 🌱 **Leveling up in:** whatever scares me most
-- 🤝 **Seeking allies for:** open-source adventures & wild ideas
-- ⚡ **Ask me about:** code, strategy, or how to get lucky (it's skill, actually)
-- 🎲 **Fun fact:** I once fixed a bug by *looking* at it intensely
-
----
-
-## 🌐 SUMMON ME
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-LordLucky-ffd700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/lordlucky-254)
-[![Twitter](https://img.shields.io/badge/Twitter-@LordLucky-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e)](https://twitter.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lord%20Lucky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Raven-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Enter%20the%20Castle-ffd700?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a2e)](https://YOUR_WEBSITE.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 *"I don't believe in luck. I believe in Lord Lucky."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting%20the%20kingdom%20%F0%9F%91%91&fontSize=24&fontColor=ffd700" />
-
-</div>
+</details>
