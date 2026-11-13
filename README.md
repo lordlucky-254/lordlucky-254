@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=240&section=header&text=L0RD%20LUCKY&fontSize=80&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=%5B%20ghost%20in%20the%20machine%20%5D&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=240&section=header&text=L0RD%20LUCKY&fontSize=80&fontColor=00ff41&animation=twinkling&fontAlign=center" alt="header" width="100%" />
 
-<a href="https://github.com/lordlucky">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%3E+initializing+lordlucky...;%3E+bypassing+firewall...+%5B+OK+%5D;%3E+access+granted.+welcome%2C+stranger.;%3E+they+call+me+the+lord+of+luck.;%3E+i+don't+hack+the+system.+i+become+it." alt="typing intro"/>
+<a href="https://github.com/lordlucky-254">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Cybersecurity+%7C+Automation+%7C+Linux+%7C+Python" alt="typing" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000&logo=gnometerminal&logoColor=00ff41)
 ![Identity](https://img.shields.io/badge/IDENTITY-ENCRYPTED-ff0040?style=for-the-badge&labelColor=000000)
 ![Threat](https://img.shields.io/badge/THREAT%20LEVEL-CLASSIFIED-9d00ff?style=for-the-badge&labelColor=000000)
-![Visitors](https://komarev.com/ghpvc/?username=lordlucky&label=SOULS+SCANNED&color=00ff41&style=for-the-badge&labelColor=000000)
+![Visitors](https://komarev.com/ghpvc/?username=lordlucky-254&label=SOULS+SCANNED&color=00ff41&style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -67,8 +67,8 @@ operator:
 
 ```diff
 + [████████████████████░] 95%  Curiosity
-+ [██████████████████░░░] 88%  Reverse Engineering
-+ [█████████████████░░░░] 82%  Network Recon
++ [██████████████████░░░░] 88%  Reverse Engineering
++ [█████████████████░░░░░] 82%  Network Recon
 + [████████████████░░░░░] 78%  Web App Security
 + [███████████████░░░░░░] 75%  Scripting & Automation
 + [██████████████░░░░░░░] 70%  Cryptography
@@ -95,10 +95,10 @@ operator:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lordlucky&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=b6ffb6&ring_color=00ff41&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=b6ffb6&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=b6ffb6&ring_color=00ff41&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=b6ffb6&langs_count=8" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=lordlucky&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=b6ffb6&dates=6b8f6b" />
+<img src="https://streak-stats.demolab.com?user=lordlucky-254&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41" alt="streak" />
 
 </div>
 
@@ -108,7 +108,7 @@ operator:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lordlucky&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=lordlucky-254&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
@@ -118,7 +118,7 @@ operator:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=LORDLUCKY%20::%20CONTRIBUTION%20TRAFFIC" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky-254&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Activity" alt="activity graph" />
 
 </div>
 
@@ -128,7 +128,7 @@ operator:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lordlucky/lordlucky/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/lordlucky-254/lordlucky-254/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
 
 </div>
 
@@ -156,7 +156,7 @@ hQEMA7xK9...  [ 4096-bit encrypted ]
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-lordlucky-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/lordlucky)
+[![GitHub](https://img.shields.io/badge/GitHub-lordlucky-254-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/lordlucky-254)
 [![Email](https://img.shields.io/badge/Email-Send_Signal-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:your@email.com)
 [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=00ff41)](https://x.com/yourhandle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/yourhandle)
@@ -179,7 +179,7 @@ hQEMA7xK9...  [ 4096-bit encrypted ]
 ---
 
 <details>
-<summary><code>> sudo cat .github/workflows/snake.yml</code> &nbsp;🐍 <i>[ classified source — click to decrypt ]</i></summary>
+<summary><code>> sudo cat .github/workflows/snake.yml</code> &nbsp;🐍 <i>[ generated workflow — click to view ]</i></summary>
 
 <br/>
 
@@ -201,17 +201,22 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
