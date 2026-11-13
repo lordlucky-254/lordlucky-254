@@ -1,224 +1,104 @@
-<!-- ░▒▓█ LORDLUCKY :: PROFILE.EXE █▓▒░ -->
-
+<!-- Profile README for github.com/lordlucky-254 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=240&section=header&text=L0RD%20LUCKY&fontSize=80&fontColor=00ff41&animation=twinkling&fontAlign=center" alt="header" width="100%" />
+<a href="https://github.com/lordlucky-254"><img src="assets/architect-banner.svg" alt="A futuristic neon-blue and violet banner reading LordLucky, Digital Architect, and Engineering the Impossible" width="100%"></a>
 
-<a href="https://github.com/lordlucky-254">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Cybersecurity+%7C+Automation+%7C+Linux+%7C+Python" alt="typing" />
-</a>
+# ENGINEERING THE IMPOSSIBLE.
 
-<br/>
+### Building digital realities. Breaking limitations. Creating the future.
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000&logo=gnometerminal&logoColor=00ff41)
-![Identity](https://img.shields.io/badge/IDENTITY-ENCRYPTED-ff0040?style=for-the-badge&labelColor=000000)
-![Threat](https://img.shields.io/badge/THREAT%20LEVEL-CLASSIFIED-9d00ff?style=for-the-badge&labelColor=000000)
-![Visitors](https://komarev.com/ghpvc/?username=lordlucky-254&label=SOULS+SCANNED&color=00ff41&style=for-the-badge&labelColor=000000)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=63F5D2&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Digital+Architect;%24+mission+%E2%86%92+Turn+ideas+into+working+technology;%24+mode+%E2%86%92+BUILDING+THE+FUTURE..." alt="Animated terminal-style identity and mission text">
+
+[![GitHub](https://img.shields.io/badge/GitHub-lordlucky--254-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/lordlucky-254)
+![Focus](https://img.shields.io/badge/FOCUS-ETHICAL_SECURITY-7C5CFF?style=flat-square)
+![Build](https://img.shields.io/badge/BUILD-MAKE_IT_REAL-35D6C0?style=flat-square)
 
 </div>
 
 ---
 
-```ruby
-┌──(lordlucky㉿darknet)-[~/identity]
-└─$ cat /etc/whoami.conf
-```
+## `01 / IDENTITY` — The architect behind the code
 
-```yaml
-# ══════════════════════════════════════════════
-#  ░█░░░█▀█░█▀▄░█▀▄░░░█░░░█░█░█▀▀░█░█░█░█
-#  ░█░░░█░█░█▀▄░█░█░░░█░░░█░█░█░░░█▀▄░░█░
-#  ░▀▀▀░▀▀▀░▀░▀░▀▀░░░░▀▀▀░▀▀▀░▀▀▀░▀░▀░░▀░
-# ══════════════════════════════════════════════
-operator:
-  handle:      lordlucky
-  alias:       [ "The Lord of Luck", "Null Pointer", "Ghost" ]
-  origin:      "somewhere between the packets"
-  status:      "awake while you sleep"
-  mission:     "break things. understand them. build them better."
-  philosophy:  "luck is just an exploit you haven't found yet"
-  motto:       "// there is no patch for curiosity"
-```
+I’m **@lordlucky-254**: a curious builder exploring the space between software, security, and useful ideas. My public work spans ethical cybersecurity learning, automation and developer tooling, AI/ML learning resources, and practical web projects.
 
----
+I like turning a question into something tangible: learn the system, understand the constraints, then build with care. Curiosity is the starting point; usefulness is the destination.
 
-## ⚡ `> ./arsenal --list`
+> **Manifesto** · Stay curious. Build responsibly. Leave the system better than you found it.
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff41)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41)
-![Burp](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff41)
-
-</div>
-
----
-
-## 🧬 `> cat /proc/lordlucky/skills`
-
-```diff
-+ [████████████████████░] 95%  Curiosity
-+ [██████████████████░░░░] 88%  Reverse Engineering
-+ [█████████████████░░░░░] 82%  Network Recon
-+ [████████████████░░░░░] 78%  Web App Security
-+ [███████████████░░░░░░] 75%  Scripting & Automation
-+ [██████████████░░░░░░░] 70%  Cryptography
-- [█████████████████████] 100% Caffeine Dependency
-- [▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒]  ??%  [REDACTED]
-```
-
----
-
-## 📡 `> ./currently --status`
-
-```bash
-[*] Researching      →  vulnerabilities, so I can learn to defend against them
-[*] Building         →  tools nobody asked for, but everyone will need
-[*] Learning         →  one more language, one more layer deeper
-[*] Hunting          →  CTF flags, bug bounties & logic flaws
-[*] Collaborating    →  with minds that think in the dark
-[!] Ask me about     →  automation, security, Linux, anything with a terminal
-```
-
----
-
-## 📊 `> ./stats --scan`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=b6ffb6&ring_color=00ff41&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=b6ffb6&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=lordlucky-254&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41" alt="streak" />
-
-</div>
-
----
-
-## 🏆 `> ls ~/trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lordlucky-254&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
-## 📈 `> tail -f /var/log/activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky-254&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=Activity" alt="activity graph" />
-
-</div>
-
----
-
-## 🐍 `> ./snake --eat-contributions`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lordlucky-254/lordlucky-254/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
-
-</div>
-
----
-
-## 🔐 `> gpg --decrypt secret.msg`
+## `02 / LIVE CONSOLE` — Operating principles
 
 ```text
------BEGIN PGP MESSAGE-----
+$ whoami
+> Digital Architect
 
-hQEMA7xK9...  [ 4096-bit encrypted ]
-...they say luck favors the bold.
-...i say luck favors the prepared.
-...and the prepared favor root.
+$ mission
+> Turning impossible ideas into working technology.
 
------END PGP MESSAGE-----
+$ philosophy
+> Innovation has no boundaries. Build with purpose and responsibility.
+
+$ current_mode
+> BUILDING THE FUTURE...
 ```
 
-> *"The quieter you become, the more you can hear."*
-> ## `// listening...`
+## `03 / TECHNOLOGY UNIVERSE` — Verified from public repositories
 
----
+These are the languages visible in my public projects. This list is intentionally evidence-based—not a claim about every tool I know.
 
-## 📬 `> ./contact --secure-channel`
+| Domain | Technologies evidenced in public work |
+| --- | --- |
+| Programming languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| Web | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| Exploring | Ethical cybersecurity · automation · AI/ML learning · developer tooling |
+
+## `04 / PROJECT ATLAS` — Selected public work
+
+| Project | Mission | Stack | Status |
+| --- | --- | --- | --- |
+| [Karu-Track](https://github.com/lordlucky-254/Karu-Track) | A location-focused prototype around Karatina University. | HTML | Public prototype |
+| [SurfaceSentry](https://github.com/lordlucky-254/SurfaceSentry-) | Automated attack-surface management and continuous exposure monitoring. | Python | Public repository |
+| [Ethical Hacking Portfolio](https://github.com/lordlucky-254/Ethical-hacking-portfolio) | Defensive-minded security learning: write-ups, methodology, templates, and safe helper scripts. | Python | Public repository |
+| [Ethical Hacking Roadmap](https://github.com/lordlucky-254/Ethical-hacking-roadmap) | A learning guide for cybersecurity. | Shell | Public repository |
+| [AI/ML Roadmap](https://github.com/lordlucky-254/AI-Ml-roadmap-) | A learning roadmap for AI and machine learning. | Shell | Public repository |
+
+[Explore all public repositories →](https://github.com/lordlucky-254?tab=repositories)
+
+## `05 / SIGNAL & ACTIVITY` — GitHub telemetry
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-lordlucky-254-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/lordlucky-254)
-[![Email](https://img.shields.io/badge/Email-Send_Signal-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=00ff41)](https://x.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/yourhandle)
+<a href="https://github.com/lordlucky-254"><img height="165" src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&hide_border=true&bg_color=0B1020&title_color=63F5D2&icon_color=8B7CFF&text_color=D7E1F2" alt="GitHub profile statistics for lordlucky-254"></a>
+<a href="https://github.com/lordlucky-254?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&hide_border=true&bg_color=0B1020&title_color=63F5D2&text_color=D7E1F2" alt="Most-used languages in public repositories for lordlucky-254"></a>
 
-<br/>
+<a href="https://github.com/lordlucky-254"><img src="https://streak-stats.demolab.com?user=lordlucky-254&hide_border=true&background=0B1020&ring=8B7CFF&fire=63F5D2&currStreakNum=D7E1F2&sideNums=D7E1F2&currStreakLabel=63F5D2&sideLabels=9BA9C4&dates=9BA9C4" alt="GitHub contribution streak for lordlucky-254"></a>
 
-```
-╔═══════════════════════════════════════════════╗
-║  "Fortune favors the one who reads the code." ║
-║                                  — lordlucky  ║
-╚═══════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
-
-`[ connection terminated :: stay anonymous, stay dangerous ]`
+<a href="https://github.com/lordlucky-254"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky-254&bg_color=0B1020&color=D7E1F2&line=63F5D2&point=8B7CFF&area=true&hide_border=true" alt="Recent GitHub contribution activity graph for lordlucky-254" width="95%"></a>
 
 </div>
 
----
+*These cards are generated from GitHub data by community-hosted services and may be temporarily unavailable or rate-limited. Your GitHub profile and repository tabs remain the source of truth.*
 
-<details>
-<summary><code>> sudo cat .github/workflows/snake.yml</code> &nbsp;🐍 <i>[ generated workflow — click to view ]</i></summary>
+## `06 / NEXT HORIZON` — Keep this section current
 
-<br/>
+- **Building:** Add current projects here as they evolve.
+- **Learning:** Add the topics you are actively studying.
+- **Exploring:** Add tools and ideas you are testing.
+- **Open source:** Browse my [public repositories](https://github.com/lordlucky-254?tab=repositories) and reach out through GitHub.
 
-```yaml
-name: Generate Snake Animation
+## `07 / CONNECTION` — Open a channel
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_or_collaborate-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lordlucky-254)
 
-permissions:
-  contents: write
+GitHub is the only professional contact link currently listed here; no unverified email, portfolio, or social accounts are included.
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+<div align="center">
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+<img src="assets/signature.svg" alt="LordLucky custom neon signature mark" width="190">
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+**The future is not waiting. I am building it.**
 
-</details>
+<sub>Curiosity is the spark. Responsible engineering is the direction.</sub>
+
+</div>
+
+<!-- Easter egg: if you found this, you read the source. Keep asking better questions. -->

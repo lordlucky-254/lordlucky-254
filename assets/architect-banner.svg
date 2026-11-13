@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">LordLucky — Digital Architect</title>
+  <desc id="desc">A futuristic dark command center with blue and violet orbital lines, a glowing digital horizon, and the message Engineering the Impossible.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="0.55" stop-color="#101329"/>
+      <stop offset="1" stop-color="#090C17"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35D6C0" stop-opacity=".2"/>
+      <stop offset=".5" stop-color="#8B7CFF" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#35D6C0" stop-opacity=".2"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop offset="0" stop-color="#725CFF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#725CFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#A5B5D6" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="26" fill="url(#grid)"/>
+  <ellipse cx="900" cy="200" rx="350" ry="260" fill="url(#aura)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M605 290C745 138 1005 125 1160 220" stroke="#35D6C0" stroke-opacity=".65" stroke-width="2"/>
+    <path d="M650 324C815 174 1040 176 1180 270" stroke="#8B7CFF" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M710 355C860 245 1050 250 1170 326" stroke="#A5B5D6" stroke-opacity=".35" stroke-width="1"/>
+    <circle cx="915" cy="216" r="120" stroke="#8B7CFF" stroke-opacity=".18"/>
+    <circle cx="915" cy="216" r="88" stroke="#35D6C0" stroke-opacity=".22" stroke-dasharray="3 9"/>
+  </g>
+  <g fill="#63F5D2" filter="url(#glow)">
+    <circle cx="743" cy="174" r="3"/><circle cx="1080" cy="204" r="3"/><circle cx="1000" cy="320" r="2.5"/>
+  </g>
+  <path d="M64 64h38M64 64v38M1136 64h-38M1136 64v38M64 356h38M64 356v-38M1136 356h-38M1136 356v-38" stroke="url(#edge)" stroke-width="2" fill="none"/>
+  <text x="92" y="115" fill="#63F5D2" font-family="monospace" font-size="14" letter-spacing="4">LORDLUCKY-254  /  DIGITAL ARCHITECT</text>
+  <text x="88" y="207" fill="#F4F7FF" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">ENGINEERING</text>
+  <text x="88" y="275" fill="#F4F7FF" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">THE IMPOSSIBLE<tspan fill="#63F5D2">.</tspan></text>
+  <path d="M90 303h390" stroke="url(#edge)" stroke-width="2"/>
+  <text x="92" y="339" fill="#B8C3D9" font-family="monospace" font-size="16">BUILDING DIGITAL REALITIES  /  2099 AND BEYOND</text>
+  <text x="1090" y="370" fill="#8B7CFF" font-family="monospace" font-size="12" text-anchor="end">SYS. READY</text>
+</svg>
