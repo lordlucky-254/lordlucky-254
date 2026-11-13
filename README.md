@@ -1,103 +1,75 @@
 <!-- Profile README for github.com/lordlucky-254 -->
 <div align="center">
 
-<a href="https://github.com/lordlucky-254"><img src="assets/architect-banner.svg" alt="A futuristic neon-blue and violet banner reading LordLucky, Digital Architect, and Engineering the Impossible" width="100%"></a>
+<a href="https://github.com/lordlucky-254"><img src="assets/architect-banner.svg" alt="LordLucky — Engineering the Impossible" width="100%"></a>
 
-# ✦ NOVA.exe — HUMAN INTERFACE v4.2.0
+### Independent builder · software · responsible security
 
-### Engineering the impossible, one curious idea at a time.
+**Engineering the impossible, one curious idea at a time.**
 
-> “I don't think outside the box. The box is my lunch.”
-
-[![GitHub](https://img.shields.io/badge/GitHub-lordlucky--254-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/lordlucky-254)
-![Focus](https://img.shields.io/badge/FOCUS-ETHICAL_SECURITY-7C5CFF?style=flat-square)
-![Build](https://img.shields.io/badge/BUILD-MAKE_IT_REAL-35D6C0?style=flat-square)
+[GitHub](https://github.com/lordlucky-254) · [Repositories](https://github.com/lordlucky-254?tab=repositories)
 
 </div>
 
 ---
 
-## 🧬 IDENTITY
+## Profile
 
-```yaml
-name: LordLucky
-handle: lordlucky-254
-interface: NOVA.exe
-version: 4.2.0
-class: Certified Reality Hacker
-status: 27% coffee, 73% unfiltered imagination
-alignment: Chaotic Creative
-mission: Turn curious ideas into useful, responsible technology
-```
+I’m **LordLucky** (`@lordlucky-254`), a curious builder exploring the space between software, security, and useful ideas. My public work spans ethical cybersecurity learning, automation, developer tooling, and AI/ML learning resources. I value precision, responsible experimentation, and turning ideas into practical projects.
 
-I’m **@lordlucky-254**: a curious builder exploring the space between software, security, and useful ideas. My public work spans ethical cybersecurity learning, automation, and developer tooling. I like turning a question into something tangible: learn the system, understand the constraints, then build with care.
+> **Build with curiosity. Engineer with care. Leave things better than you found them.**
 
-> **Manifesto:** Every “that's ridiculous” is just a “how” wearing a disguise. Stay curious, build responsibly, and leave the system better than you found it.
+## Engineering focus
 
-## 🛠️ TECH STACK
+**Languages in my public work**
 
-- **Concept core:** divergent thinking, dream-mining, and asking better questions
-- **Runtime:** curiosity + espresso only
-- **Languages visible in public work:** Python, Shell, and HTML
-- **Exploring:** ethical cybersecurity · automation · AI/ML learning · developer tooling
+`Python` · `Shell` · `HTML`
 
-## 🧪 CREATIVE MODES
+**Areas explored through projects and learning**
 
-- 🧊 **Deep Freeze** — ideas stored at absolute zero
-- 🔥 **Overload** — 40 ideas/second, warning label included
-- 🎭 **Chameleon** — shapeshifts across dimensions
-- 🌌 **Void Gaze** — the abyss takes notes
+Ethical cybersecurity · developer tooling · automation · AI/ML learning
 
-## 🏆 SELECTED UNHINGED ACHIEVEMENTS
+## Selected work
 
-- Invented a color. It filed for emancipation and won.
-- Rebuilt a microwave into a time machine. Only travels to 1997.
-- Wrote a novel backwards. The sequel reads itself.
-
-## ⚠️ KNOWN BUGS
-
-- `idea_overflow: true` (unfixable, by design)
-- May refer to deadlines as “suggestions from the past”
-
-## 🚀 PROJECT ATLAS
-
-| Project | Mission | Stack |
+| Project | What it is | Public work |
 | --- | --- | --- |
-| [Karu-Track](https://github.com/lordlucky-254/Karu-Track) | A location-focused prototype around Karatina University. | HTML |
-| [SurfaceSentry](https://github.com/lordlucky-254/SurfaceSentry-) | Automated attack-surface management and continuous exposure monitoring. | Python |
+| [SurfaceSentry](https://github.com/lordlucky-254/SurfaceSentry-) | Automated attack-surface management and continuous exposure monitoring platform. | Python |
 | [Ethical Hacking Portfolio](https://github.com/lordlucky-254/Ethical-hacking-portfolio) | Defensive-minded security learning: write-ups, methodology, templates, and safe helper scripts. | Python |
-| [Ethical Hacking Roadmap](https://github.com/lordlucky-254/Ethical-hacking-roadmap) | A learning guide for cybersecurity. | Shell |
+| [dev-tools-setup](https://github.com/lordlucky-254/dev-tools-setup) | Cross-platform developer environment setup for Linux, macOS, and Windows. | Shell |
+| [Karu-Track](https://github.com/lordlucky-254/Karu-Track) | A location-focused prototype around Karatina University. | HTML |
 | [AI/ML Roadmap](https://github.com/lordlucky-254/AI-Ml-roadmap-) | A learning roadmap for AI and machine learning. | Shell |
 
 [Explore all public repositories →](https://github.com/lordlucky-254?tab=repositories)
 
-## 📡 SIGNAL DECODING — GitHub telemetry
+## GitHub activity
 
 <div align="center">
 
-<a href="https://github.com/lordlucky-254"><img height="165" src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&hide_border=true&bg_color=0B1020&title_color=63F5D2&text_color=D7E1F2&icon_color=8B7CFF" alt="GitHub profile statistics"></a>
-<a href="https://github.com/lordlucky-254?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&hide_border=true&bg_color=0B1020&title_color=63F5D2&text_color=D7E1F2" alt="Most used languages"></a>
+<a href="https://github.com/lordlucky-254"><img height="165" src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=C6A66B&amp;text_color=888888&amp;icon_color=C6A66B" alt="GitHub profile statistics for LordLucky"></a>
+<a href="https://github.com/lordlucky-254?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=C6A66B&amp;text_color=888888" alt="Most-used languages in public repositories"></a>
 
-<a href="https://github.com/lordlucky-254"><img src="https://streak-stats.demolab.com?user=lordlucky-254&hide_border=true&background=0B1020&ring=8B7CFF&fire=63F5D2&currStreakNum=D7E1F2&sideNums=D7E1F2&currStreakLabel=63F5D2&sideLabels=D7E1F2&dates=8B7CFF" alt="GitHub contribution streak"></a>
+<a href="https://github.com/lordlucky-254"><img src="https://streak-stats.demolab.com?user=lordlucky-254&amp;hide_border=true&amp;background=00000000&amp;ring=C6A66B&amp;fire=C6A66B&amp;currStreakNum=888888&amp;sideNums=888888&amp;currStreakLabel=C6A66B&amp;sideLabels=888888&amp;dates=888888" alt="GitHub contribution streak"></a>
 
-<a href="https://github.com/lordlucky-254"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky-254&bg_color=0B1020&color=D7E1F2&line=63F5D2&point=8B7CFF&area=true&hide_border=true" alt="GitHub contribution activity graph"></a>
+<a href="https://github.com/lordlucky-254"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lordlucky-254&amp;bg_color=00000000&amp;color=888888&amp;line=C6A66B&amp;point=F5F5F5&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph"></a>
 
 </div>
 
-*These cards are generated by community-hosted services and may be temporarily unavailable or rate-limited. Your GitHub profile and repository tabs remain the source of truth.*
+<sub>Statistics are generated by community-hosted services and may be temporarily unavailable. GitHub is the source of truth for profile and repository activity.</sub>
 
-## 🌟 CORE PHILOSOPHY
+## Engineering philosophy
 
-> Every “that's ridiculous” is just a “how” wearing a disguise.
+> “Every ‘that’s ridiculous’ is just a ‘how’ wearing a disguise.”
+
+Stay curious. Build responsibly. Make useful things with care.
+
+## Connect
+
+[GitHub · @lordlucky-254](https://github.com/lordlucky-254)
 
 <div align="center">
 
-<img src="assets/signature.svg" alt="LordLucky custom neon signature mark" width="190">
+<img src="assets/signature.svg" alt="LordLucky — Build with purpose" width="190">
 
-**The future is not waiting. I am building it.**
-
-<sub>Curiosity is the spark. Responsible engineering is the direction.</sub>
+<sub>THE FUTURE IS NOT WAITING. I AM BUILDING IT.</sub>
 
 </div>
-
-<!-- Easter egg: if you found this, you read the source. Keep asking better questions. -->

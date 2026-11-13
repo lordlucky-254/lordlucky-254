@@ -1,47 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">LordLucky — Digital Architect</title>
-  <desc id="desc">A futuristic dark command center with blue and violet orbital lines, a glowing digital horizon, and the message Engineering the Impossible.</desc>
+  <title id="title">LordLucky — Engineering the Impossible</title>
+  <desc id="desc">Minimal obsidian-black portfolio banner with refined champagne-gold geometry and a message about engineering the impossible.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070B16"/>
-      <stop offset="0.55" stop-color="#101329"/>
-      <stop offset="1" stop-color="#090C17"/>
+      <stop offset="0" stop-color="#080808"/>
+      <stop offset="0.58" stop-color="#10100F"/>
+      <stop offset="1" stop-color="#080808"/>
     </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#35D6C0" stop-opacity=".2"/>
-      <stop offset=".5" stop-color="#8B7CFF" stop-opacity=".95"/>
-      <stop offset="1" stop-color="#35D6C0" stop-opacity=".2"/>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C6A66B" stop-opacity=".25"/>
+      <stop offset=".5" stop-color="#E4D0A7"/>
+      <stop offset="1" stop-color="#C6A66B" stop-opacity=".25"/>
     </linearGradient>
     <radialGradient id="aura">
-      <stop offset="0" stop-color="#725CFF" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#725CFF" stop-opacity="0"/>
+      <stop offset="0" stop-color="#C6A66B" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#C6A66B" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#A5B5D6" stroke-opacity=".07" stroke-width="1"/>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#F5F5F5" stroke-opacity=".035" stroke-width="1"/>
     </pattern>
-    <filter id="glow" x="-30%" y="-50%" width="160%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
-  <rect width="1200" height="420" rx="26" fill="url(#bg)"/>
-  <rect width="1200" height="420" rx="26" fill="url(#grid)"/>
-  <ellipse cx="900" cy="200" rx="350" ry="260" fill="url(#aura)"/>
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+  <ellipse cx="935" cy="210" rx="330" ry="260" fill="url(#aura)"/>
   <g fill="none" stroke-linecap="round">
-    <path d="M605 290C745 138 1005 125 1160 220" stroke="#35D6C0" stroke-opacity=".65" stroke-width="2"/>
-    <path d="M650 324C815 174 1040 176 1180 270" stroke="#8B7CFF" stroke-opacity=".8" stroke-width="2"/>
-    <path d="M710 355C860 245 1050 250 1170 326" stroke="#A5B5D6" stroke-opacity=".35" stroke-width="1"/>
-    <circle cx="915" cy="216" r="120" stroke="#8B7CFF" stroke-opacity=".18"/>
-    <circle cx="915" cy="216" r="88" stroke="#35D6C0" stroke-opacity=".22" stroke-dasharray="3 9"/>
+    <path d="M720 88C850 145 1005 145 1135 80" stroke="#C6A66B" stroke-opacity=".55"/>
+    <path d="M688 332C820 270 1006 272 1145 340" stroke="#C6A66B" stroke-opacity=".34"/>
+    <circle cx="930" cy="210" r="145" stroke="#C6A66B" stroke-opacity=".22"/>
+    <circle cx="930" cy="210" r="112" stroke="#C6A66B" stroke-opacity=".35" stroke-dasharray="1 10"/>
+    <path d="M64 64h38M64 64v38M1136 64h-38M1136 64v38M64 356h38M64 356v-38M1136 356h-38M1136 356v-38" stroke="url(#gold)" stroke-width="2"/>
   </g>
-  <g fill="#63F5D2" filter="url(#glow)">
-    <circle cx="743" cy="174" r="3"/><circle cx="1080" cy="204" r="3"/><circle cx="1000" cy="320" r="2.5"/>
-  </g>
-  <path d="M64 64h38M64 64v38M1136 64h-38M1136 64v38M64 356h38M64 356v-38M1136 356h-38M1136 356v-38" stroke="url(#edge)" stroke-width="2" fill="none"/>
-  <text x="92" y="115" fill="#63F5D2" font-family="monospace" font-size="14" letter-spacing="4">LORDLUCKY-254  /  DIGITAL ARCHITECT</text>
-  <text x="88" y="207" fill="#F4F7FF" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">ENGINEERING</text>
-  <text x="88" y="275" fill="#F4F7FF" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">THE IMPOSSIBLE<tspan fill="#63F5D2">.</tspan></text>
-  <path d="M90 303h390" stroke="url(#edge)" stroke-width="2"/>
-  <text x="92" y="339" fill="#B8C3D9" font-family="monospace" font-size="16">BUILDING DIGITAL REALITIES  /  2099 AND BEYOND</text>
-  <text x="1090" y="370" fill="#8B7CFF" font-family="monospace" font-size="12" text-anchor="end">SYS. READY</text>
+  <text x="92" y="112" fill="#C6A66B" font-family="monospace" font-size="14" letter-spacing="4">LORDLUCKY  /  INDEPENDENT BUILDER</text>
+  <text x="88" y="209" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="600" letter-spacing="-2">ENGINEERING</text>
+  <text x="88" y="276" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="600" letter-spacing="-2">THE IMPOSSIBLE<tspan fill="#C6A66B">.</tspan></text>
+  <path d="M91 305h390" stroke="url(#gold)" stroke-width="2"/>
+  <text x="92" y="341" fill="#A5A29B" font-family="monospace" font-size="15" letter-spacing="1">SOFTWARE  /  RESPONSIBLE SECURITY  /  USEFUL IDEAS</text>
+  <text x="1090" y="370" fill="#C6A66B" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="2">BUILD WITH PURPOSE</text>
 </svg>
