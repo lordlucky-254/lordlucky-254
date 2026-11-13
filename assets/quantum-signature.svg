@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="96" viewBox="0 0 480 96" role="img" aria-labelledby="title desc">
+  <title id="title">LordLucky — build with purpose</title>
+  <desc id="desc">A compact quantum orbital symbol and neon signature text on a midnight background.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E5FF"/><stop offset=".5" stop-color="#176BFF"/><stop offset="1" stop-color="#9747FF"/></linearGradient></defs>
+  <g transform="translate(45 48)" fill="none" stroke="url(#g)" stroke-width="1.6"><ellipse rx="30" ry="11" transform="rotate(-35)"/><ellipse rx="30" ry="11" transform="rotate(35)"/><ellipse rx="30" ry="11" transform="rotate(90)" opacity=".75"/><circle r="4" fill="#00E5FF" stroke="none"/></g>
+  <text x="96" y="44" fill="#F4F7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700" letter-spacing="2">LORDLUCKY</text>
+  <text x="98" y="68" fill="#8FA4D4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2">BUILD WITH PURPOSE · EXPLORE WHAT'S NEXT</text>
+  <path d="M96 78H390" stroke="url(#g)" stroke-opacity=".55"/>
+</svg>
