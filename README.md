@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/lordlucky-254.png?size=500" width="420" alt="lordlucky-254 profile photo" />
+<img src="https://raw.githubusercontent.com/lordlucky-254/lordlucky-254/main/WhatsApp%20Image%202026-11-14%20at%2010.53.15%20PM.jpeg" width="420" alt="My profile photo" />
 
 <br/>
 <sub><i>Front: The Engineer. &nbsp;•&nbsp; Behind: The Echo. &nbsp;•&nbsp; Between: The Weights.</i></sub>
