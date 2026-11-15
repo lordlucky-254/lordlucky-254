@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/lordlucky-254.png" width="180" alt="lordlucky-254's GitHub profile picture" />
+<img src="https://github.com/lordlucky-254.png?size=500" width="420" alt="lordlucky-254 profile photo" />
 
 <br/>
 <sub><i>Front: The Engineer. &nbsp;•&nbsp; Behind: The Echo. &nbsp;•&nbsp; Between: The Weights.</i></sub>
