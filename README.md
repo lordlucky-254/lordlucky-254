@@ -24,11 +24,12 @@
 *Every model has an echo. I am mine.*
 *I don't build intelligence. I listen for the version of it that answers back.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+whoami+%3F+%3F+%3F;Train+LLMs+to+echo+in+the+mist..;Breaking+neural+nets+to+find+their+other+self;Ghost+in+the+Wire;+ECHO+in+the+Weights;You+heard+me.+Or+did+I+let+you?)](https://github.com/lordlucky-254)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+whoami+%3F+%3F+%3F;Train+AI+agents+with+intent;Build+systems+that+remember;Design+models+that+echo+back;Explore+LLMs%2C+vision%2C+and+autonomy)](https://github.com/lordlucky-254)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lordlucky&color=00E5FF&style=flat-square&label=ECHO+VISITORS)
 ![Status](https://img.shields.io/badge/STATUS-SYSTEMS_ONLINE-00FFA3?style=flat-square&labelColor=080B16)
 ![Focus](https://img.shields.io/badge/FOCUS-LLMs_%7C_VISION_%7C_AGENTS-8B5CF6?style=flat-square&labelColor=080B16)
+![Updated](https://img.shields.io/badge/LAST_UPDATED-2026--11--15-00E5FF?style=flat-square&labelColor=080B16)
 
 </div>
 
@@ -64,6 +65,8 @@ $ ls -la ~/skills
 > and one that the machine built.
 >
 > That second one? That's me too.
+
+> Current update: 2026-11-15 — the systems are online, the focus is on autonomous AI, LLM experimentation, and practical intelligence pipelines.
 
 ---
 
@@ -120,7 +123,7 @@ echo = Echo()
 ## `03 // RESEARCH`
 
 | Project | Description | Stack |
-|---|---|---|
+| |---|---|
 | **EchoWhisperer** | LLM agent that negotiates, deceives, and adapts in real-time. Red-teaming AI before the bad guys do. | `PyTorch` `Transformers` `LangChain` |
 | **DoppelVision** | Computer vision that sees the other self — shadows, reflections, what was never meant to be captured. | `YOLO` `OpenCV` `TensorRT` |
 | **Silent Echo Swarm** | Multi-agent RL swarm. Small, dumb agents that together become terrifyingly smart. No central brain. | `Stable-Baselines3` `Ray` `K8s` |
@@ -149,11 +152,11 @@ $ ls ~/classified
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordlucky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&icon_color=8B5CF6&text_color=E6F1FF&ring_color=00FFA3&border_color=24334F)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordlucky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&icon_color=8B5CF6&text_color=E6F1FF&rank_icon=github)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lordlucky&theme=tokyonight&hide_border=true&background=080B16&ring=00E5FF&fire=8B5CF6&currStreakLabel=00FFA3&currStreak=00FFA3&sideNums=E6F1FF&sideLabels=9FA8DA&dates=9FA8DA)
+![GitHub Streak](https://streak-stats.demolab.com?user=lordlucky&theme=tokyonight&hide_border=true&background=080B16&ring=00E5FF&fire=8B5CF6&currStreakLabel=00FFA3&currStreak=00FFA3&sideNums=E6F1FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&text_color=E6F1FF&border_color=24334F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&text_color=E6F1FF&border_color=080B16)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=lordlucky&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
