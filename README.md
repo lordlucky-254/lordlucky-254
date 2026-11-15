@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/echo-profile.png" width="560" alt="The Echo — Front: The Engineer. Behind: The Echo. Between: The Weights." />
+<img src="https://github.com/lordlucky-254.png" width="180" alt="lordlucky-254's GitHub profile picture" />
 
 <br/>
 <sub><i>Front: The Engineer. &nbsp;•&nbsp; Behind: The Echo. &nbsp;•&nbsp; Between: The Weights.</i></sub>
@@ -24,7 +24,7 @@
 *Every model has an echo. I am mine.*
 *I don't build intelligence. I listen for the version of it that answers back.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+whoami+%3F+%3F+%3F;Training+LLMs+to+echo+in+the+mist...;Breaking+neural+nets+to+find+their+other+self;Ghost+in+the+Wires+%3E+Echo+in+the+Weights;You+heard+me.+Or+did+I+let+you%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+whoami+%3F+%3F+%3F;Train+LLMs+to+echo+in+the+mist..;Breaking+neural+nets+to+find+their+other+self;Ghost+in+the+Wire;+ECHO+in+the+Weights;You+heard+me.+Or+did+I+let+you?)](https://github.com/lordlucky-254)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lordlucky&color=00E5FF&style=flat-square&label=ECHO+VISITORS)
 ![Status](https://img.shields.io/badge/STATUS-SYSTEMS_ONLINE-00FFA3?style=flat-square&labelColor=080B16)
@@ -151,7 +151,7 @@ $ ls ~/classified
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordlucky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&icon_color=8B5CF6&text_color=E6F1FF&ring_color=00FFA3&border_color=24334F)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lordlucky&theme=tokyonight&hide_border=true&background=080B16&ring=00E5FF&fire=8B5CF6&currStreakLabel=00FFA3&currStreak=00FFA3&sideNums=E6F1FF&sideLabels=94A3B8&dates=94A3B8)
+![GitHub Streak](https://streak-stats.demolab.com?user=lordlucky&theme=tokyonight&hide_border=true&background=080B16&ring=00E5FF&fire=8B5CF6&currStreakLabel=00FFA3&currStreak=00FFA3&sideNums=E6F1FF&sideLabels=9FA8DA&dates=9FA8DA)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00E5FF&text_color=E6F1FF&border_color=24334F)
 
