@@ -4,12 +4,12 @@
 
 ### **Front: The Engineer. • Behind: The Echo. • Between: The Weights.**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+%2F+AI+Student+%40+Karatina+University;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+LLM+Apps;I+don't+build+intelligence.+I+listen+for+it.;Every+model+has+an+echo.+I+am+mine.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+%2F+AI+Student+%40+Karatina+University;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Streamlit;Building+intelligence+that+echoes+back)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lordlucky-254&color=00f0ff&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/lordlucky-254?color=00f0ff&style=flat-square)
-![Stars](https://img.shields.io/github/stars/lordlucky-254?color=00f0ff&style=flat-square)
-![Last Updated](https://img.shields.io/badge/Updated-Nov%202026-00f0ff?style=flat-square)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-18-00f0ff?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Updated-November%202023-00f0ff?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Data%20%2F%20AI-00f0ff?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Open%20To-Mentorship%20%26%20Internships-00ff88?style=flat-square)
 
@@ -31,9 +31,9 @@
 
 **Currently Focused On**
 
-| 📊 Data | 🤖 Machine Learning | 🧠 LLM Apps | 🛡️ Red-Teaming |
+| 📊 Data | 🤖 Machine Learning | 🧠 AI Apps | 🛡️ Defensive Security |
 | :---: | :---: | :---: | :---: |
-| Pandas, NumPy, SQL | scikit-learn, PyTorch | LangChain, RAG, Prompt Eng. | Hallucinations, Jailbreaks, Safety |
+| Pandas, NumPy, SQL | scikit-learn, PyTorch | Streamlit, LangChain, RAG | Attack surfaces, pentesting, safe tooling |
 
 </div>
 
@@ -45,12 +45,12 @@
 echo = {
     "alias": "The Echo in the Weights",
     "location": "Nairobi ↔ Cloud | Karatina University",
-    "languages": ["Python", "SQL"],
-    "data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "ml_ai": ["scikit-learn", "PyTorch", "Transformers", "LangChain"],
+    "languages": ["Python", "SQL", "HTML", "Shell"],
+    "data": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
+    "ml_ai": ["scikit-learn", "PyTorch", "Transformers", "LangChain", "Streamlit"],
     "vision": ["OpenCV", "YOLO"],
-    "infra": ["Vector DBs", "MLOps basics", "Streamlit", "Hugging Face"],
-    "motto": "Never trust a model that hasn't been attacked.",
+    "security": ["Ethical hacking", "Attack surface monitoring", "CTF methodology"],
+    "motto": "Never trust a model that hasn't been questioned.",
     "curiosity": "100%"
 }
 ```
@@ -59,17 +59,16 @@ echo = {
 
 ### 🚀 Featured Projects — Building In Public
 
-<div align="center">
-
 | Project | What It Does | Stack |
 | :--- | :--- | :--- |
-| **🏠 Kenya House Price Prediction** <br> [View Repo →](https://github.com/lordlucky-254/kenya-house-price-prediction) | Predict house prices from real data. Cleaning, EDA, feature engineering, regression. <br> *Lesson: Cleaning messy data matters more than the model.* | `Python` `Pandas` `scikit-learn` |
-| **💬 CSV Chat AI** <br> [View Repo →](https://github.com/lordlucky-254/csv-chat-ai) | Upload a CSV, ask questions in plain English, get answers from an LLM. <br> *Lesson: How to turn a dataset into a conversational AI app.* | `Python` `LangChain` `Streamlit` |
-| **🔓 Prompt Echo — LLM Red-Teaming** <br> [View Repo →](https://github.com/lordlucky-254/prompt-echo) | Stress-test LLMs for jailbreaks, hallucinations & bias. <br> *Lesson: If I can't break it, I don't ship it.* | `Python` `Prompt Eng.` `OpenAI API` |
+| **📊 [Kenya Data Explorer](https://github.com/lordlucky-254/kenya-data-explorer-dashboard)** | Interactive dashboard exploring rainfall, maize, KCSE, house prices, and M-Pesa data across Kenya. | Python · Streamlit · Plotly |
+| **🏠 [Kenya House Price Prediction](https://github.com/lordlucky-254/kenya-house-price-prediction)** | Predicts house prices in Kenya/Nairobi through data cleaning, EDA, and regression modeling. | Python · Pandas · scikit-learn |
+| **🌱 [AgroVision AI](https://github.com/lordlucky-254/AgroVision-AI)** | AI-focused agriculture project exploring practical computer vision and decision support. | Python · AI / ML |
+| **🐔 [PoultryGuard AI](https://github.com/lordlucky-254/PoultryGuard-AI)** | Poultry health and monitoring project using AI-assisted detection and analysis. | Python · AI / ML |
+| **🌾 [FarmSense AI](https://github.com/lordlucky-254/FarmSense-AI)** | Agricultural sensing project for turning farm data into useful signals and insights. | Python · Data / AI |
+| **🛡️ [SurfaceSentry](https://github.com/lordlucky-254/SurfaceSentry-)** | Automated attack surface management and continuous exposure monitoring platform. | Python · Security |
 
-> **In the Lab:** EchoWhisperer • DoppelVision • Silent Echo Swarm — building them one repo at a time.
-
-</div>
+**More projects:** [MY-PORTIFOLIO](https://github.com/lordlucky-254/MY-PORTIFOLIO) · [Robo Safe Nav](https://github.com/lordlucky-254/robo-safe-nav) · [Ethical Hacking Portfolio](https://github.com/lordlucky-254/Ethical-hacking-portfolio) · [Karu Track](https://github.com/lordlucky-254/Karu-Track) · [GroundCheck](https://github.com/lordlucky-254/groundcheck)
 
 ---
 
@@ -103,11 +102,11 @@ echo = {
 
 ```text
 [✓] Python + Data Analysis fundamentals
-[→] SQL + Data Visualization deep dive
-[ ] Deploy 1 ML model on Streamlit / Hugging Face Spaces
-[ ] Complete 3 portfolio projects above
-[ ] Contribute to 1 open-source Data/AI project
-[ ] Land Data/AI mentorship + internship
+[→] SQL + Data Visualization and dashboards
+[→] Building Streamlit and machine-learning projects
+[ ] Deploy production-style ML and AI applications
+[ ] Contribute to open-source Data/AI projects
+[ ] Land Data/AI mentorship and internships
 ```
 
 ---
@@ -116,7 +115,7 @@ echo = {
 
 <div align="center">
 
-**Data/AI Mentorship** • **Internships / Junior Data / AI Roles** • **Open-Source Collabs** • **Hackathons**
+**Data/AI Mentorship** • **Internships / Junior Data / AI Roles** • **Open-Source Collabs** • **Hackathons** • **Defensive Security Projects**
 
 </div>
 
