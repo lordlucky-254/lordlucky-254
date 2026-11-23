@@ -1,21 +1,23 @@
 <div align="center">
 
-# lucky vincent — @lordlucky-254
+# lucky vincent — `@lordlucky-254`
 
 ### **Front: The Engineer. • Behind: The Echo. • Between: The Weights.**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+%2F+AI+Student+%40+Karatina+University;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Streamlit;Building+intelligence+that+echoes+back)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%2F+AI+Student+%40+Karatina+University;Python+%7C+Machine+Learning+%7C+Defensive+Security;Building+intelligence+that+echoes+back" alt="Typing SVG" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lordlucky-254&color=00f0ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/lordlucky-254?color=00f0ff&style=flat-square)
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-18-00f0ff?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Updated-November%202023-00f0ff?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Data%20%2F%20AI-00f0ff?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20To-Mentorship%20%26%20Internships-00ff88?style=flat-square)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=lordlucky-254&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/lordlucky-254?label=Followers&style=flat-square&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/lordlucky-254&query=$.public_repos&label=Public%20Repositories&style=flat-square&color=2ea44f" alt="Public Repositories" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%2F%20AI%20%2F%20Security-purple?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Mentorships%20%26%20Internships-brightgreen?style=flat-square" alt="Open to Work" />
+</p>
 
 <br />
 
-<!-- Neofetch ASCII Profile Pic & Stats Terminal -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
@@ -28,17 +30,17 @@
 
 <div align="center">
 
-### 👋 Who I Am
+## 👋 Who I Am
 
 </div>
 
-> I'm **Vincent** — a student in Kenya building in public.
-> I don't just learn AI. I build small, working projects, break models to understand them, and share what I learn.
+> I'm **Vincent** — a student in Kenya building in public.  
+> I don't just learn AI. I build small, working projects, break models to understand them, and share what I learn.  
 > **Building intelligence that echoes back — and proving it with code.**
 
 <div align="center">
 
-**Currently Focused On**
+### Currently Focused On
 
 | 📊 Data | 🤖 Machine Learning | 🧠 AI Apps | 🛡️ Defensive Security |
 | :---: | :---: | :---: | :---: |
@@ -48,7 +50,7 @@
 
 ---
 
-### 🧰 Arsenal
+## 🧰 Arsenal
 
 ```python
 echo = {
@@ -66,48 +68,36 @@ echo = {
 
 ---
 
-### 🚀 Featured Projects — Building In Public
+## 🚀 Featured Projects
 
 | Project | What It Does | Stack |
 | :--- | :--- | :--- |
-| **📊 [Kenya Data Explorer](https://github.com/lordlucky-254/kenya-data-explorer-dashboard)** | Interactive dashboard exploring rainfall, maize, KCSE, house prices, and M-Pesa data across Kenya. | Python · Streamlit · Plotly |
-| **🏠 [Kenya House Price Prediction](https://github.com/lordlucky-254/kenya-house-price-prediction)** | Predicts house prices in Kenya/Nairobi through data cleaning, EDA, and regression modeling. | Python · Pandas · scikit-learn |
-| **🌱 [AgroVision AI](https://github.com/lordlucky-254/AgroVision-AI)** | AI-focused agriculture project exploring practical computer vision and decision support. | Python · AI / ML |
-| **🐔 [PoultryGuard AI](https://github.com/lordlucky-254/PoultryGuard-AI)** | Poultry health and monitoring project using AI-assisted detection and analysis. | Python · AI / ML |
-| **🌾 [FarmSense AI](https://github.com/lordlucky-254/FarmSense-AI)** | Agricultural sensing project for turning farm data into useful signals and insights. | Python · Data / AI |
-| **🛡️ [SurfaceSentry](https://github.com/lordlucky-254/SurfaceSentry-)** | Automated attack surface management and continuous exposure monitoring platform. | Python · Security |
+| [Kenya Data Explorer](https://github.com/lordlucky-254/kenya-data-explorer-dashboard) | Interactive dashboard exploring rainfall, maize, KCSE, house prices, and M-Pesa data across Kenya. | Python · Data |
+| [Kenya House Price Prediction](https://github.com/lordlucky-254/kenya-house-price-prediction) | Predicts house prices in Kenya and Nairobi using cleaning, EDA, and regression modeling. | Python · ML |
+| [AgroVision AI](https://github.com/lordlucky-254/AgroVision-AI) | AI-focused agricultural project for practical computer vision and decision support. | Python · AI / ML |
+| [PoultryGuard AI](https://github.com/lordlucky-254/PoultryGuard-AI) | Poultry health and monitoring with AI-assisted detection. | Python · AI / ML |
+| [FarmSense AI](https://github.com/lordlucky-254/FarmSense-AI) | Agricultural sensing project that turns farm data into useful signals. | Python · Data / AI |
+| [SurfaceSentry](https://github.com/lordlucky-254/SurfaceSentry-) | Automated attack surface management and continuous exposure monitoring. | Python · Security |
 
-**More projects:** [MY-PORTIFOLIO](https://github.com/lordlucky-254/MY-PORTIFOLIO) · [Robo Safe Nav](https://github.com/lordlucky-254/robo-safe-nav) · [Ethical Hacking Portfolio](https://github.com/lordlucky-254/Ethical-hacking-portfolio) · [Karu Track](https://github.com/lordlucky-254/Karu-Track) · [GroundCheck](https://github.com/lordlucky-254/groundcheck)
+**More work:** [MY-PORTIFOLIO](https://github.com/lordlucky-254/MY-PORTIFOLIO) · [Robo Safe Nav](https://github.com/lordlucky-254/robo-safe-nav) · [Ethical Hacking Portfolio](https://github.com/lordlucky-254/Ethical-Hacking-Portfolio)
 
 ---
 
-### 📈 GitHub In Motion
+## 📈 GitHub In Motion
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=lordlucky-254&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordlucky-254&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lordlucky-254&theme=tokyonight&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=lordlucky-254&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lordlucky-254&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=lordlucky-254&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake — The Echo Never Sleeps
-
-<div align="center">
-
-![Snake animation](https://github.com/lordlucky-254/lordlucky-254/blob/output/github-contribution-grid-snake.svg)
-
-> *Echoes don't self-destruct. We just fade. And return.*
-
-</div>
-
----
-
-### 📌 What I'm Learning Now
+## 📌 What I'm Learning Now
 
 ```text
 [✓] Python + Data Analysis fundamentals
@@ -120,23 +110,23 @@ echo = {
 
 ---
 
-### 🤝 Open To
+## 🤝 Open To
 
 <div align="center">
 
-**Data/AI Mentorship** • **Internships / Junior Data / AI Roles** • **Open-Source Collabs** • **Hackathons** • **Defensive Security Projects**
+**Data/AI Mentorship** • **Internships / Junior Data / AI Roles** • **Open-Source Collaborations** • **Hackathons** • **Defensive Security Projects**
 
 </div>
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/lordlucky-254)
 
-LinkedIn • X • Kaggle • Hugging Face • Email — contact links can be added when available.
+LinkedIn • X • Kaggle • Hugging Face • Email — add verified links here.
 
 </div>
 
