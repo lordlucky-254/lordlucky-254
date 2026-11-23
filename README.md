@@ -13,6 +13,15 @@
 ![Focus](https://img.shields.io/badge/Focus-Data%20%2F%20AI-00f0ff?style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Open%20To-Mentorship%20%26%20Internships-00ff88?style=flat-square)
 
+<br />
+
+<!-- Neofetch ASCII Profile Pic & Stats Terminal -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Lucky Vincent Neofetch Stats" src="dark_mode.svg" />
+</picture>
+
 </div>
 
 ---
